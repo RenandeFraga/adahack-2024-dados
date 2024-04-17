@@ -14,6 +14,6 @@ Nome do Projeto:
 
 <li>Projeto Diversidade CorpSolutions<li>
 
-Nossa proposta:
 
-Elaboração de um dashboard para detecção de falhas de diversidade, e sugestão de melhorias baseada na jornada do funcionário.
+Nossa proposta:
+<li>Elaboração de um dashboard para detecção de falhas de diversidade, e sugestão de melhorias baseada na jornada do funcionário.<li>
